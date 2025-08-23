@@ -51,9 +51,12 @@ This repo contains all the **code, datasets, and teaching resources** for learni
 
 🎥 Click to watch recorded sessions:  
 
-[![Python Basics](https://www.facebook.com/watch/?v=765021723146669&rdid=90ZNNukZRRETEptS))  
-[![Visualization](https://www.facebook.com/watch/?v=1081591867447725&rdid=0hVZu62scWs5u9hc))  
-[![EDA](https://www.youtube.com/watch?v=pSK7hMlyGDY))  
+## 📺 Teaching Videos  
+
+- [Python Basics](https://www.facebook.com/watch/?v=765021723146669)  
+- [Visualization](https://www.facebook.com/watch/?v=1081591867447725)  
+- [EDA](https://www.youtube.com/watch?v=pSK7hMlyGDY)  
+
 
 ---
 
