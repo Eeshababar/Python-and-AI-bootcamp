@@ -47,14 +47,13 @@ This repo contains all the **code, datasets, and teaching resources** for learni
 
 ---
 
-## 📺 Teaching Videos  
+## 📺 My Teaching Videos  
 
 🎥 Click to watch recorded sessions:  
 
-[![Python Basics](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-[![Web Scraping](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-[![EDA](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
-[![Algorithms](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+[![Python Basics](https://www.facebook.com/watch/?v=765021723146669&rdid=90ZNNukZRRETEptS))  
+[![Visualization](https://www.facebook.com/watch/?v=1081591867447725&rdid=0hVZu62scWs5u9hc))  
+[![EDA](https://www.youtube.com/watch?v=pSK7hMlyGDY))  
 
 ---
 
