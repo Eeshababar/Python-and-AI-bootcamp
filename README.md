@@ -47,7 +47,7 @@ This repository houses all the **code, datasets, and teaching materials** for le
 
 ---
 
-## Teaching Videos
+## My Teaching Videos
 
 Click to watch the recorded sessions:
 
