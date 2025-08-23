@@ -1,68 +1,69 @@
-# 🚀 Python & AI Bootcamp  
+# Python & AI Bootcamp
 
-Welcome to the **Python & Artificial Intelligence Bootcamp Repository** 🎉  
-This repo contains all the **code, datasets, and teaching resources** for learning **Python, Web Scraping, Exploratory Data Analysis (EDA), and Machine Learning Algorithms**.  
+Welcome to the **Python & Artificial Intelligence Bootcamp Repository**.  
+This repository houses all the **code, datasets, and teaching materials** for learning Python, Web Scraping, Exploratory Data Analysis (EDA), and key Machine Learning algorithms.
 
 ---
 
-## 🐍 Python Basics  
+## Python Basics
 
 - Variables & Data Types  
 - Loops & Functions  
 - Object-Oriented Programming (OOP)  
 - Hands-on coding exercises  
 
-📂 Folder: **`/Python`**  
+📂 Folder: **`/Python`**
 
 ---
 
-## 🌐 Web Scraping  
+## Web Scraping
 
 - Using `requests` & `BeautifulSoup`  
 - Automating with `Selenium`  
-- Extracting real-world datasets  
+- Collecting real-world data  
 
-📂 Folder: **`/WebScraping`**  
+📂 Folder: **`/WebScraping`**
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)  
+## Exploratory Data Analysis (EDA)
 
 - Data Cleaning with **Pandas**  
 - Numerical Computing with **NumPy**  
-- Visualization with **Matplotlib & Seaborn**  
+- Visualization with **Matplotlib** & **Seaborn**  
 - Detecting patterns & outliers  
 
-📂 Folder: **`/EDA`**  
+📂 Folder: **`/EDA`**
 
 ---
 
-## 🤖 Machine Learning Algorithms  
+## Machine Learning Algorithms
 
-- 🔹 **K-Nearest Neighbors (KNN)** → distance-based classification  
-- 🌳 **Decision Trees** → rule-based predictions, easy to interpret  
-- 🧩 **Ensemble Methods** → Random Forest, Bagging, Boosting (AdaBoost, XGBoost)  
+- K-Nearest Neighbors (KNN) — distance-based classification  
+- Decision Trees — rule-based and interpretable predictions  
+- Ensemble Methods — Random Forest, Bagging, Boosting (AdaBoost, XGBoost)  
 
-📂 Folder: **`/Algorithms`**  
-
----
-
-## 📺 My Teaching Videos  
-
-🎥 Click to watch recorded sessions:  
-
-## 📺 Teaching Videos  
-
-- [Python Basics](https://www.facebook.com/watch/?v=765021723146669)  
-- [Visualization](https://www.facebook.com/watch/?v=1081591867447725)  
-- [EDA](https://www.youtube.com/watch?v=pSK7hMlyGDY)  
-
+📂 Folder: **`/Algorithms`**
 
 ---
 
-## 🙌 Contributors  
+## Teaching Videos
 
-👩‍🏫 **Instructor:** [Eesha tur razia babar](https://www.linkedin.com/in/esha)  
-🏫 **Organization:** FAST NUCES / iCodeGuru  
+Click to watch the recorded sessions:
 
-⭐ Don’t forget to **star** this repo if you found it helpful!  
+- [Python Basics (Facebook)](https://www.facebook.com/watch/?v=765021723146669)  
+- [Visualization (Facebook)](https://www.facebook.com/watch/?v=1081591867447725)  
+- [EDA (YouTube)](https://www.youtube.com/watch?v=pSK7hMlyGDY)
+
+---
+
+## Contributors
+
+- **Instructor:** Eesha Tur Razia Babar  
+- **Contributor:** Ahmad Sana Farooq
+
+
+
+---
+
+If you find this resource valuable, please consider **starring** this repository!
